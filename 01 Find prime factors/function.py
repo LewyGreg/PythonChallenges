@@ -3,4 +3,3 @@ def myFunction():
 
 myFunction()
 
-remote: Permission to .git denied to .
